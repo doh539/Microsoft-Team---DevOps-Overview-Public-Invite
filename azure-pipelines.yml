@@ -5,7 +5,7 @@
 
 trigger:
 - master
-
+- Second Branch
 pool:
   vmImage: 'ubuntu-latest'
 
